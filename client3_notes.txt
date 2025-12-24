@@ -1,0 +1,19 @@
+Patient Elizabeth Hall (DOB: 2010-11-08, F) diagnosed with Cerebral Palsy, comorbidities: Epilepsy. Medications: Baclofen 10mg, Valproic Acid 500mg. Allergies: None. Last BP: 104/62.
+
+Patient Alexander Young (DOB: 1986-08-19, M) diagnosed with Psoriasis, comorbidities: Depression. Medications: Adalimumab 40mg, Escitalopram 10mg. Allergies: Shellfish. Last BP: 131/84.
+
+Patient Evelyn King (DOB: 1991-05-03, F) diagnosed with Lupus, comorbidities: Raynaud's. Medications: Hydroxychloroquine 200mg, Nifedipine 30mg. Allergies: Sulfa. Last BP: 121/78.
+
+Patient Daniel Scott (DOB: 1963-09-25, M) diagnosed with Prostate Cancer, comorbidities: BPH. Medications: Leuprolide 22.5mg, Tamsulosin 0.4mg. Allergies: None. Last BP: 142/88.
+
+Patient Emily Adams (DOB: 2000-07-17, F) diagnosed with Anorexia Nervosa, comorbidities: Osteoporosis. Medications: Fluoxetine 20mg, Calcium 1200mg. Allergies: Latex. Last BP: 92/58.
+
+Patient Matthew Green (DOB: 1989-04-14, M) diagnosed with Ulcerative Colitis, comorbidities: Anxiety. Medications: Infliximab 5mg/kg, Diazepam 2mg PRN. Allergies: None. Last BP: 118/75.
+
+Patient Sofia Hernandez (DOB: 1978-12-06, F) diagnosed with Fibromyalgia, comorbidities: IBS. Medications: Pregabalin 75mg, Dicyclomine 20mg. Allergies: Codeine. Last BP: 124/79.
+
+Patient Joseph Allen (DOB: 1950-06-30, M) diagnosed with Parkinson's, comorbidities: Constipation. Medications: Carbidopa/Levodopa 25/100, Miralax. Allergies: None. Last BP: 138/85.
+
+Patient Madison Nelson (DOB: 1994-02-28, F) diagnosed with Pregnancy (G2P1), comorbidities: Anemia. Medications: Prenatal Vitamins, Iron 65mg. Allergies: None. Last BP: 116/72.
+
+Patient Samuel Carter (DOB: 2018-03-19, M) diagnosed with Preterm Birth, comorbidities: RSV. Medications: Palivizumab 15mg/kg, Albuterol PRN. Allergies: None. Last BP: 94/60.

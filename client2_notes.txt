@@ -1,0 +1,19 @@
+Patient Charlotte Thomas (DOB: 1983-06-09, F) diagnosed with Migraine, comorbidities: Anxiety. Medications: Sumatriptan 50mg, Duloxetine 60mg. Allergies: Sulfa. Last BP: 122/79.
+
+Patient Liam Jackson (DOB: 1948-08-17, M) diagnosed with Alzheimer's, comorbidities: Hypertension. Medications: Donepezil 10mg, Amlodipine 5mg. Allergies: Eggs. Last BP: 145/88.
+
+Patient Amelia Harris (DOB: 2008-09-30, F) diagnosed with Cystic Fibrosis, comorbidities: Diabetes. Medications: Tobramycin 300mg, Insulin Glargine. Allergies: Peanuts. Last BP: 112/68.
+
+Patient Benjamin Martin (DOB: 1993-01-21, M) diagnosed with Bipolar Disorder. Medications: Lithium 300mg, Quetiapine 100mg. Allergies: None. Last BP: 128/83.
+
+Patient Mia Thompson (DOB: 1967-07-07, F) diagnosed with Osteoarthritis, comorbidities: Depression. Medications: Naproxen 500mg, Venlafaxine 75mg. Allergies: Aspirin. Last BP: 136/87.
+
+Patient William Garcia (DOB: 2005-04-12, M) diagnosed with Sickle Cell Anemia. Medications: Hydroxyurea 500mg, Folic Acid 1mg. Allergies: PCN. Last BP: 108/66.
+
+Patient Harper Rodriguez (DOB: 1959-10-31, F) diagnosed with Glaucoma, comorbidities: Cataracts. Medications: Timolol 0.5%, Multivitamin. Allergies: None. Last BP: 140/90.
+
+Patient Elijah Martinez (DOB: 1980-12-05, M) diagnosed with Sleep Apnea, comorbidities: Obesity. Medications: CPAP, Phentermine 15mg. Allergies: None. Last BP: 134/86.
+
+Patient Abigail Lewis (DOB: 1997-03-28, F) diagnosed with Endometriosis, comorbidities: Anemia. Medications: Leuprolide 3.75mg, Iron Supplement. Allergies: Iodine. Last BP: 119/77.
+
+Patient Logan Walker (DOB: 1975-02-14, M) diagnosed with Hepatitis C, comorbidities: Cirrhosis. Medications: Sofosbuvir/Velpatasvir, Spironolactone 50mg. Allergies: None. Last BP: 126/80.

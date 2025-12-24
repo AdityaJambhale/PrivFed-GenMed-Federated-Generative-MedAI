@@ -1,0 +1,19 @@
+Patient Emily Johnson (DOB: 1985-03-15, F) diagnosed with Hypertension, comorbidities: Obesity, GERD. Medications: Lisinopril 10mg, Omeprazole 20mg. Allergies: Shellfish. Last BP: 138/88.
+
+Patient Michael Chen (DOB: 1978-11-02, M) diagnosed with Type 2 Diabetes, comorbidities: Hyperlipidemia. Medications: Metformin 1000mg, Atorvastatin 40mg. Allergies: NSAIDs. Last BP: 126/82.
+
+Patient Sarah Miller (DOB: 1995-08-19, F) diagnosed with Asthma, comorbidities: Allergic Rhinitis. Medications: Albuterol PRN, Fluticasone 110mcg. Allergies: Penicillin. Last BP: 118/76.
+
+Patient David Wilson (DOB: 1960-12-30, M) diagnosed with COPD, comorbidities: CAD, OSA. Medications: Tiotropium 18mcg, Aspirin 81mg. Allergies: Sulfa. Last BP: 132/84.
+
+Patient Olivia Davis (DOB: 2002-05-22, F) diagnosed with ADHD. Medications: Methylphenidate 20mg. Allergies: None. Last BP: 110/70.
+
+Patient James Brown (DOB: 1955-09-14, M) diagnosed with CHF, comorbidities: Atrial Fibrillation. Medications: Furosemide 40mg, Apixaban 5mg. Allergies: Iodine. Last BP: 142/90.
+
+Patient Sophia Martinez (DOB: 1988-07-04, F) diagnosed with PCOS, comorbidities: Depression. Medications: Metformin 500mg, Sertraline 50mg. Allergies: Latex. Last BP: 124/78.
+
+Patient Ethan Taylor (DOB: 2015-02-11, M) diagnosed with Autism Spectrum, comorbidities: Epilepsy. Medications: Risperidone 1mg, Levetiracetam 500mg. Allergies: None. Last BP: 102/65.
+
+Patient Isabella White (DOB: 1972-04-18, F) diagnosed with Rheumatoid Arthritis, comorbidities: Hypothyroidism. Medications: Methotrexate 15mg, Levothyroxine 75mcg. Allergies: Codeine. Last BP: 130/85.
+
+Patient Noah Anderson (DOB: 1999-12-25, M) diagnosed with IBD, comorbidities: Anemia. Medications: Mesalamine 1.2g, Ferrous Sulfate 325mg. Allergies: Cephalosporins. Last BP: 116/74.
